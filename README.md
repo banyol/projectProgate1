@@ -1,1 +1,1 @@
-# projectProgate1
+# trainingProgate1
