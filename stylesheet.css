@@ -99,13 +99,7 @@ header {
   float: left;
 }
 
-.menu-icon {
-  display: none;
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-}
+
 
 .header-right {
   float: right;
@@ -123,6 +117,14 @@ header {
 
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
+}
+
+.menu-icon {
+  display: none;
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
 }
 
 .lesson-wrapper {
