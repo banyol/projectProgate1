@@ -99,8 +99,6 @@ header {
   float: left;
 }
 
-
-
 .header-right {
   float: right;
   margin-right: -25px;
@@ -120,11 +118,11 @@ header {
 }
 
 .menu-icon {
-  display: none;
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
+  display: none;
 }
 
 .lesson-wrapper {
