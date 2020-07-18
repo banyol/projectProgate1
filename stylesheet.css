@@ -117,14 +117,12 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
+  display: none;
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  /* Gantikan property display ke none */
-  display: none;
 }
 
 .lesson-wrapper {
